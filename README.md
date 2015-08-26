@@ -13,3 +13,9 @@
 - 联系方式:qiushengjie2010@foxmail.com
 
 ## 游戏截图
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/1.png)
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/2.png)
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/3.png)
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/4.png)
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/5.png)
+![image](https://github.com/JasonQiu2012/FishWinner/raw/master/Resource/6.png)

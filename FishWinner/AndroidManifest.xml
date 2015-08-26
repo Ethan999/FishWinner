@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.histudio.fishwinner"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="8"/>
+	<uses-permission android:name="android.permission.VIBRATE" />
+      <supports-screens
+            android:smallScreens="true"
+            android:normalScreens="true"
+            android:largeScreens="true"
+            android:resizeable="true"
+            android:anyDensity="true" />
+    
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" 
+        android:name="com.histudio.fishwinner.game.GameApplication">
+        <activity
+            android:name="com.histudio.fishwinner.game.GameActivity"
+            android:label="@string/app_name" android:screenOrientation="portrait" android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
